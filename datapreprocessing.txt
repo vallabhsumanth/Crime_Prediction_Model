@@ -1,0 +1,5 @@
+labelencoder
+onehotencoder
+
+# to clalucalate accuracy 
+accuracy = (TN + TP)/(TP + TN + FP + FN)
